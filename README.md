@@ -20,9 +20,7 @@
 
 ![Diego GruberS GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoGruberS&show_icons=true&theme=dracula)
        
-Sou apaixonado por tecnologia e acredito muito que ela pode ser uma ferramenta que facilita a vida das pessoas em todas as áreas
-  <br>
-Gmail:diegogruberdev@gmail.com
+Sou apaixonado por tecnologia e acredito muito que ela pode ser uma ferramenta que facilita a vida das pessoas em todas as áreas<br>
 
 
 
